@@ -1,15 +1,15 @@
 {
-  "main.css": "/Royale-with-Cheese/static/css/main.20441fd7.chunk.css",
-  "main.js": "/Royale-with-Cheese/static/js/main.fdd7d384.chunk.js",
-  "main.js.map": "/Royale-with-Cheese/static/js/main.fdd7d384.chunk.js.map",
-  "static/css/1.0a5d370b.chunk.css": "/Royale-with-Cheese/static/css/1.0a5d370b.chunk.css",
-  "static/js/1.d85d715c.chunk.js": "/Royale-with-Cheese/static/js/1.d85d715c.chunk.js",
-  "static/js/1.d85d715c.chunk.js.map": "/Royale-with-Cheese/static/js/1.d85d715c.chunk.js.map",
-  "runtime~main.js": "/Royale-with-Cheese/static/js/runtime~main.c42d5557.js",
-  "runtime~main.js.map": "/Royale-with-Cheese/static/js/runtime~main.c42d5557.js.map",
-  "static/css/main.20441fd7.chunk.css.map": "/Royale-with-Cheese/static/css/main.20441fd7.chunk.css.map",
-  "static/css/1.0a5d370b.chunk.css.map": "/Royale-with-Cheese/static/css/1.0a5d370b.chunk.css.map",
-  "index.html": "/Royale-with-Cheese/index.html",
-  "precache-manifest.e6d7304342eac429e9263e7e598070ff.js": "/Royale-with-Cheese/precache-manifest.e6d7304342eac429e9263e7e598070ff.js",
-  "service-worker.js": "/Royale-with-Cheese/service-worker.js"
+  "main.css": "/gifgif/static/css/main.4104b15e.chunk.css",
+  "main.js": "/gifgif/static/js/main.ae53c2f0.chunk.js",
+  "main.js.map": "/gifgif/static/js/main.ae53c2f0.chunk.js.map",
+  "static/css/1.275a8628.chunk.css": "/gifgif/static/css/1.275a8628.chunk.css",
+  "static/js/1.c75ed60f.chunk.js": "/gifgif/static/js/1.c75ed60f.chunk.js",
+  "static/js/1.c75ed60f.chunk.js.map": "/gifgif/static/js/1.c75ed60f.chunk.js.map",
+  "runtime~main.js": "/gifgif/static/js/runtime~main.e1f1c0dc.js",
+  "runtime~main.js.map": "/gifgif/static/js/runtime~main.e1f1c0dc.js.map",
+  "static/css/main.4104b15e.chunk.css.map": "/gifgif/static/css/main.4104b15e.chunk.css.map",
+  "static/css/1.275a8628.chunk.css.map": "/gifgif/static/css/1.275a8628.chunk.css.map",
+  "index.html": "/gifgif/index.html",
+  "precache-manifest.8369564ff0e8516ad335cbae6ed4bf36.js": "/gifgif/precache-manifest.8369564ff0e8516ad335cbae6ed4bf36.js",
+  "service-worker.js": "/gifgif/service-worker.js"
 }

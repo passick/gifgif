@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Royale-with-Cheese/precache-manifest.e6d7304342eac429e9263e7e598070ff.js"
+  "/gifgif/precache-manifest.8369564ff0e8516ad335cbae6ed4bf36.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Royale-with-Cheese/index.html", {
+workbox.routing.registerNavigationRoute("/gifgif/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
