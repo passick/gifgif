@@ -1,4 +1,4 @@
-# Royale-with-Cheese
+# Gifgif
 App for adding gifs to youtube videos.
 Made as a final project for user interface design class.
 
